@@ -8,4 +8,4 @@ export default db;
 
 
 // connectionString ElephantSQL
-// postgres://xttmzaob:MmZJVrEg3j39gTkfVyceNIS7CVz3zzPI@kesavan.db.elephantsql.com/xttmzaob
+// postgres://xxxxxxx:xxxxxxxxxxxxxxxxxxxxx@kesavan.db.elephantsql.com/xttmzaob
